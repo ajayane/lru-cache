@@ -1,0 +1,21 @@
+{
+  "name": "LRU-Cache",
+  "version": "1.0.0",
+  "description": "LRU-cache typescript",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "tyepdoc": "typedoc"
+  },
+  "author": "Ajayan E",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^3.5.0"
+  },
+  "devDependencies": {
+    "typedoc": "^0.5.10",
+    "typescript": "^2.9.1"
+  }
+}

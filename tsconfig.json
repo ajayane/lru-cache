@@ -1,0 +1,23 @@
+{
+  "compileOnSave": true,
+  "compilerOptions":
+  {
+    "removeComments": true,
+    "module": "amd",
+    "target": "ES5",
+    "noImplicitAny": false,
+    "outDir": "build",
+    "rootDir": "./src",
+    "sourceMap": true,
+    "inlineSources": false,
+    "lib":
+    [
+      "es6",
+      "dom"
+    ]
+  },
+  "exclude":
+  [
+    "node_modules"
+  ]
+}
